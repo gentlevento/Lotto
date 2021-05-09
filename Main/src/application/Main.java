@@ -1,7 +1,7 @@
 package application;
 
-// 버전 1.13
-// 박대서
+// 버전 1.15
+// 박대서 210509
 import java.io.IOException;
 
 import application.controller.MainController;
