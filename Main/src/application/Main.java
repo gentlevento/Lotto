@@ -1,6 +1,6 @@
 package application;
 
-// 버전 1.1
+// 버전 1.13
 // 박대서
 import java.io.IOException;
 
